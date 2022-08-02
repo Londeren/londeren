@@ -1,4 +1,4 @@
-##### Senior Frontend Developer, Team Lead • JavaScript, Angular, TypeScript, UI/UX
+#### Senior Frontend Developer, Team Lead • JavaScript, Angular, TypeScript, UI/UX
 
 I'm a software engineer with over 15 years experience.
 
