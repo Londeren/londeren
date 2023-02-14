@@ -15,5 +15,5 @@ Also love straightforward UX and pretty UI. I have no problem to sketch-up somet
 Love to make projects done, inspiring teams, beautiful and user-friendly interfaces, traveling and cooking.
 
 
-📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/londeren/) • [Email](mailto:londeren@gmail.com) • [Resume](https://github.com/Londeren/londeren/blob/main/Resume-Sergey-Lebedev.pdf)
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/londeren/) • [Email](mailto:londeren@gmail.com) • [Resume](https://github.com/Londeren/londeren/blob/main/Resume-Sergey-Lebedev-Senior-Frontend-Engineer-Team-Lead.pdf)
 
