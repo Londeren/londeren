@@ -2,7 +2,7 @@
 
 I'm a Software engineer with over 15 years of experience and strong fundamentals in front-end technologies. Have a 9-year background in backend development.
 
-I am well-versed in JavaScript and TypeScript, with professional experience working with Angular 15+ and RxJS.
+I am well-versed in JavaScript and TypeScript, with professional experience working with Angular 15+ and React.js.
 
 **Team lead**. Skilled in developer team management and know how to build and lead an inspired and performant team. Led 2 engineering teams with an average size of 7 members across two companies and mentored over 10 junior mentees.
 
